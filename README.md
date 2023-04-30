@@ -16,4 +16,4 @@ Harry Potter Characters App
 
 ## Download
 
-You can download the latest version of the executable from the Releases page.
+You can download the latest version of the executable from the [Releases](https://github.com/austinProGit/harry_potter_characters_app/releases/latest) page.

@@ -13,3 +13,4 @@ dist/
 build/
 character_images/
 *.spec
+*.zip
