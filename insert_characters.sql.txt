@@ -1,0 +1,13 @@
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Harry', 'Potter', 'student', './character_images/Potter_Harry.jpg');
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Hermione', 'Granger', 'student', './character_images/Granger_Hermione.jpg');
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Ron', 'Weasley', 'student', './character_images/Weasley_Ron.jpg');
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Draco', 'Malfoy', 'student', './character_images/Malfoy_Draco.jpg');
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Sirius', 'Black', 'savage', './character_images/Black_Sirius.jpg');
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Albus', 'Dumbledore', 'headmaster', './character_images/Dumbledore_Albus.jpg');
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Rubeus', 'Hagrid', 'groundskeeper', './character_images/Hagrid_Rubeus.jpg');
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Neville', 'Longbottom', 'student', './character_images/Longbottom_Neville.jpg');
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Luna', 'Lovegood', 'student', './character_images/Lovegood_Luna.jpg');
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Minerva', 'McGonagall', 'professor', './character_images/McGonagall_Minerva.jpg');
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Alastor', 'Moody', 'professor', './character_images/Moody_Alastor.jpg');
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Severus', 'Snape', 'professor', './character_images/Snape_Severus.jpg');
+INSERT OR IGNORE INTO characters (first_name, last_name, occupation, image_path) VALUES ('Lord', 'Voldemort', 'tyrant', './character_images/Voldemort_Lord.jpg');
